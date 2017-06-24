@@ -1,2 +1,2 @@
 # calcio
-Questo è un prgetto di gruppo per Artoo 5 edizione
+Questo è un progetto di gruppo per Artoo 5 edizione
